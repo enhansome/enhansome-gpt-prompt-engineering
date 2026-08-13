@@ -1,0 +1,376 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Prompt Engineering Guide",
+          "description": "Guides, papers, lecture, notebooks and resources for prompt engineering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MDX",
+            "last_commit": "2026-03-11T20:09:13Z",
+            "owner": "dair-ai",
+            "repo": "Prompt-Engineering-Guide",
+            "stars": 77450
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dair-ai/Prompt-Engineering-Guide",
+          "description": "A GitHub repository that provides a prompt engineering guide with the latest papers and learning guides.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MDX",
+            "last_commit": "2026-03-11T20:09:13Z",
+            "owner": "dair-ai",
+            "repo": "Prompt-Engineering-Guide",
+            "stars": 77450
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenAI Cookbook",
+          "description": "OpenAI's cookbook includes examples of prompt engineering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-12T22:24:52Z",
+            "owner": "openai",
+            "repo": "openai-cookbook",
+            "stars": 75220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prompt Engineering Guide",
+          "description": "Prompt Engineering guide by Sudalai Rajkumar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-08-11T05:05:31Z",
+            "owner": "SudalaiRajkumar",
+            "repo": "Talks_Webinars",
+            "stars": 48
+          }
+        }
+      ],
+      "title": "Guides"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LangChain Github Repository",
+          "description": "Building applications with LLMs through composability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T02:31:03Z",
+            "owner": "langchain-ai",
+            "repo": "langchain",
+            "stars": 144120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Embedchain Github Repository",
+          "description": "Framework to create ChatGPT-like bots over your dataset.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T02:35:11Z",
+            "owner": "mem0ai",
+            "repo": "mem0",
+            "stars": 63150
+          }
+        }
+      ],
+      "title": "Techniques"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "f/awesome-chatgpt-prompts",
+          "description": "This repo includes ChatGPT prompt curation to use ChatGPT better. .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-13T03:49:09Z",
+            "owner": "f",
+            "repo": "prompts.chat",
+            "stars": 167070
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome ChatGPT Prompts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-13T03:49:09Z",
+            "owner": "f",
+            "repo": "prompts.chat",
+            "stars": 167070
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Best Data Science ChatGPT Prompts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-28T15:18:28Z",
+            "owner": "travistangvh",
+            "repo": "ChatGPT-Data-Science-Prompts",
+            "stars": 1619
+          }
+        }
+      ],
+      "title": "Prompt Collections"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Opik",
+          "description": "Evaluate, test, and ship LLM applications across your dev and production lifecycles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T00:50:50Z",
+            "owner": "comet-ml",
+            "repo": "opik",
+            "stars": 21342
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rhesis AI",
+          "description": "OSS Platform & SDK. Collaborative agent testing for teams.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T23:00:22Z",
+            "owner": "rhesis-ai",
+            "repo": "rhesis",
+            "stars": 386
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "llm",
+          "description": "Use any LLM from the command line, easily.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-10-21T12:25:53Z",
+            "owner": "snwfdhmp",
+            "repo": "llm",
+            "stars": 59
+          }
+        }
+      ],
+      "title": "Playgrounds and Alternative UIs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Auto-GPT Official Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:10:08Z",
+            "owner": "Significant-Gravitas",
+            "repo": "AutoGPT",
+            "stars": 186571
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DemoGPT",
+          "description": "🧩 DemoGPT enables you to create quick demos by just using prompts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-01T12:30:12Z",
+            "owner": "melih-unsal",
+            "repo": "DemoGPT",
+            "stars": 1904
+          }
+        }
+      ],
+      "title": "Auto-GPT Related"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Plug-in example code in Python",
+          "description": "Example code for creating a ChatGPT plug-in in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-23T20:10:05Z",
+            "owner": "ruvnet",
+            "repo": "chatgpt_plugin_python",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Surfer Plug-in source code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-23T17:25:09Z",
+            "owner": "ruvnet",
+            "repo": "Surfer",
+            "stars": 89
+          }
+        }
+      ],
+      "title": "ChatGPT Plug-ins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome-Prompt-Engineering",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T07:41:52Z",
+            "owner": "promptslab",
+            "repo": "Awesome-Prompt-Engineering",
+            "stars": 6245
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EwingYangs Awesome-open-gpt",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-16T10:55:24Z",
+            "owner": "EwingYangs",
+            "repo": "awesome-open-gpt",
+            "stars": 6043
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tensorchord Awesome-LLMOps",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-05-21T09:12:50Z",
+            "owner": "tensorchord",
+            "repo": "Awesome-LLMOps",
+            "stars": 5914
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AiTreasureBox",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-13T03:18:21Z",
+            "owner": "superiorlu",
+            "repo": "AITreasureBox",
+            "stars": 852
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KennethanCeyer awesome-llm",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-03-17T12:11:49Z",
+            "owner": "KennethanCeyer",
+            "repo": "awesome-llm",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "llm",
+          "description": "Use any LLM from the command line.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-10-21T12:25:53Z",
+            "owner": "snwfdhmp",
+            "repo": "llm",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KennethanCeyer Awesome-llmops",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-03-17T12:06:34Z",
+            "owner": "KennethanCeyer",
+            "repo": "awesome-llmops",
+            "stars": 55
+          }
+        }
+      ],
+      "title": "AI Links Directories"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:10:33.921Z",
+    "original_repository": "snwfdhmp/awesome-gpt-prompt-engineering",
+    "original_repository_sha": "73fd85158fc7bd5cfe4697cedb6014c73d8ba1cf",
+    "enhanced_repository": "enhansome/enhansome-gpt-prompt-engineering",
+    "enhanced_repository_description": null,
+    "title": "Awesome GPT Prompt Engineering with stars"
+  }
+}
