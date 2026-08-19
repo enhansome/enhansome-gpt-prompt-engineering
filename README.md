@@ -33,9 +33,9 @@ Consider giving it a ⭐️ if you like it to show your support!
 
 ## Guides
 
-* [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) ⭐ 77,583 | 🐛 279 | 🌐 MDX | 📅 2026-03-11: Guides, papers, lecture, notebooks and resources for prompt engineering.
-* [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) ⭐ 77,583 | 🐛 279 | 🌐 MDX | 📅 2026-03-11: A GitHub repository that provides a prompt engineering guide with the latest papers and learning guides.
-* [OpenAI Cookbook](https://github.com/openai/openai-cookbook) ⭐ 75,349 | 🐛 247 | 🌐 Jupyter Notebook | 📅 2026-08-19: OpenAI's cookbook includes examples of prompt engineering.
+* [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) ⭐ 77,591 | 🐛 279 | 🌐 MDX | 📅 2026-03-11: Guides, papers, lecture, notebooks and resources for prompt engineering.
+* [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) ⭐ 77,591 | 🐛 279 | 🌐 MDX | 📅 2026-03-11: A GitHub repository that provides a prompt engineering guide with the latest papers and learning guides.
+* [OpenAI Cookbook](https://github.com/openai/openai-cookbook) ⭐ 75,358 | 🐛 245 | 🌐 Jupyter Notebook | 📅 2026-08-19: OpenAI's cookbook includes examples of prompt engineering.
 * [Prompt Engineering Guide](https://github.com/SudalaiRajkumar/Talks_Webinars/blob/master/Slides/PromptEngineering_20230208.pdf) ⭐ 48 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-08-11: Prompt Engineering guide by Sudalai Rajkumar.
 * [Learn Prompt Engineering](https://learnprompting.org/docs/): Introduction to Prompt Engineering and Prompt Engineering techniques.
 * [Prompt Engineering 101](https://www.linkedin.com/pulse/prompt-engineering-101-introduction-resources-amatriain): Prompt Engineering guide by Xavi.
@@ -60,8 +60,8 @@ Consider giving it a ⭐️ if you like it to show your support!
 
 ## Techniques
 
-* [LangChain Github Repository](https://github.com/hwchase17/langchain) ⭐ 144,553 | 🐛 410 | 🌐 Python | 📅 2026-08-19: Building applications with LLMs through composability.
-* [Embedchain Github Repository](https://github.com/embedchain/embedchain) ⭐ 63,593 | 🐛 690 | 🌐 Python | 📅 2026-08-18: Framework to create ChatGPT-like bots over your dataset.
+* [LangChain Github Repository](https://github.com/hwchase17/langchain) ⭐ 144,575 | 🐛 404 | 🌐 Python | 📅 2026-08-19: Building applications with LLMs through composability.
+* [Embedchain Github Repository](https://github.com/embedchain/embedchain) ⭐ 63,607 | 🐛 690 | 🌐 Python | 📅 2026-08-18: Framework to create ChatGPT-like bots over your dataset.
 * [Few Shot Learning](https://blog.paperspace.com/few-shot-learning/): Everything you need to know about Few-Shot Learning.
 * [Zero Shot Learning](https://arxiv.org/pdf/2205.11916.pdf): Large Language Models are Zero-Shot Reasoners.
 * [Chain of Thought](https://learnprompting.org/docs/intermediate/chain_of_thought): Encourages the LLM to explain its reasoning to improve its accuracy.
@@ -76,8 +76,8 @@ Consider giving it a ⭐️ if you like it to show your support!
 
 ## Prompt Collections
 
-* [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 167,529 | 🐛 66 | 🌐 HTML | 📅 2026-08-19: This repo includes ChatGPT prompt curation to use ChatGPT better. .
-* [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 167,529 | 🐛 66 | 🌐 HTML | 📅 2026-08-19
+* [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 167,576 | 🐛 66 | 🌐 HTML | 📅 2026-08-19: This repo includes ChatGPT prompt curation to use ChatGPT better. .
+* [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 167,576 | 🐛 66 | 🌐 HTML | 📅 2026-08-19
 * [Best Data Science ChatGPT Prompts](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) ⭐ 1,618 | 🐛 1 | 📅 2023-12-28
 * [FlowGPT](https://flowgpt.com/): FlowGPT is the largest open source prompt community.
 * [awesomegptprompts.com](https://www.awesomegptprompts.com/): Explore hundreds of the best ChatGPT Prompts.
@@ -153,8 +153,8 @@ Consider giving it a ⭐️ if you like it to show your support!
 
 ## Playgrounds and Alternative UIs
 
-* [Opik](https://github.com/comet-ml/opik) ⭐ 21,471 | 🐛 205 | 🌐 Python | 📅 2026-08-19: Evaluate, test, and ship LLM applications across your dev and production lifecycles.
-* [Rhesis AI](https://github.com/rhesis-ai/rhesis) ⭐ 389 | 🐛 110 | 🌐 Python | 📅 2026-08-19: OSS Platform & SDK. Collaborative agent testing for teams.
+* [Opik](https://github.com/comet-ml/opik) ⭐ 21,483 | 🐛 212 | 🌐 Python | 📅 2026-08-19: Evaluate, test, and ship LLM applications across your dev and production lifecycles.
+* [Rhesis AI](https://github.com/rhesis-ai/rhesis) ⭐ 389 | 🐛 114 | 🌐 Python | 📅 2026-08-19: OSS Platform & SDK. Collaborative agent testing for teams.
 * [llm](https://github.com/snwfdhmp/llm) ⭐ 59 | 🐛 2 | 🌐 JavaScript | 📅 2025-10-21: Use any LLM from the command line, easily.
 * [Official OpenAI Playground](https://platform.openai.com/playground)
 * [Nat.Dev](https://nat.dev): Multiple Chat AI Playground & Comparer.
@@ -182,7 +182,7 @@ Consider giving it a ⭐️ if you like it to show your support!
 
 ## Auto-GPT Related
 
-* [Auto-GPT Official Repo](https://github.com/Significant-Gravitas/Auto-GPT) ⭐ 186,683 | 🐛 507 | 🌐 Python | 📅 2026-08-19
+* [Auto-GPT Official Repo](https://github.com/Significant-Gravitas/Auto-GPT) ⭐ 186,687 | 🐛 509 | 🌐 Python | 📅 2026-08-19
 * [DemoGPT](https://github.com/melih-unsal/DemoGPT) ⭐ 1,905 | 🐛 10 | 🌐 Python | 📅 2026-04-01: 🧩 DemoGPT enables you to create quick demos by just using prompts.
 * [Auto-GPT God Mode](https://godmode.space/)
 * [OpenAIMaster's Guide to Auto-GPT](https://openaimaster.com/how-does-autogpt-work-an-ai-tool-to-create-full-projects/): How does Auto-GPT work, an AI tool to create full projects.
@@ -208,9 +208,9 @@ Consider giving it a ⭐️ if you like it to show your support!
 
 ## AI Links Directories
 
-* [Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) ⭐ 6,261 | 🐛 105 | 🌐 TypeScript | 📅 2026-08-19
+* [Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) ⭐ 6,261 | 🐛 104 | 🌐 TypeScript | 📅 2026-08-19
 * [EwingYangs Awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt) ⭐ 6,039 | 🐛 19 | 🌐 Python | 📅 2025-05-16
-* [tensorchord Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) ⭐ 5,916 | 🐛 246 | 🌐 Shell | 📅 2026-05-21
+* [tensorchord Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) ⭐ 5,917 | 🐛 246 | 🌐 Shell | 📅 2026-05-21
 * [AiTreasureBox](https://github.com/superiorlu/AiTreasureBox) ⭐ 855 | 🐛 12 | 🌐 Ruby | 📅 2026-08-19
 * [KennethanCeyer awesome-llm](https://github.com/KennethanCeyer/awesome-llm) ⭐ 88 | 🐛 6 | 📅 2025-03-17
 * [llm](https://github.com/snwfdhmp/llm) ⭐ 59 | 🐛 2 | 🌐 JavaScript | 📅 2025-10-21: Use any LLM from the command line.
