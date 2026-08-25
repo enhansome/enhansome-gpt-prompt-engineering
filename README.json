@@ -15,7 +15,7 @@
             "last_commit": "2026-03-11T20:09:13Z",
             "owner": "dair-ai",
             "repo": "Prompt-Engineering-Guide",
-            "stars": 77753
+            "stars": 77767
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-03-11T20:09:13Z",
             "owner": "dair-ai",
             "repo": "Prompt-Engineering-Guide",
-            "stars": 77753
+            "stars": 77767
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 468576060,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-24T08:40:51Z",
+            "last_commit": "2026-08-25T02:55:56Z",
             "owner": "openai",
             "repo": "openai-cookbook",
-            "stars": 75523
+            "stars": 75531
           }
         },
         {
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-24T14:59:13Z",
+            "last_commit": "2026-08-25T03:51:56Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 144902
+            "stars": 144933
           }
         },
         {
@@ -93,10 +93,10 @@
             "archived": false,
             "id": 656099147,
             "language": "Python",
-            "last_commit": "2026-08-24T16:52:05Z",
+            "last_commit": "2026-08-24T20:06:40Z",
             "owner": "mem0ai",
             "repo": "mem0",
-            "stars": 63957
+            "stars": 63977
           }
         }
       ],
@@ -114,10 +114,10 @@
             "archived": false,
             "id": 574523116,
             "language": "HTML",
-            "last_commit": "2026-08-24T03:24:40Z",
+            "last_commit": "2026-08-25T03:21:48Z",
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 167858
+            "stars": 167870
           }
         },
         {
@@ -129,10 +129,10 @@
             "archived": false,
             "id": 574523116,
             "language": "HTML",
-            "last_commit": "2026-08-24T03:24:40Z",
+            "last_commit": "2026-08-25T03:21:48Z",
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 167858
+            "stars": 167870
           }
         },
         {
@@ -165,10 +165,10 @@
             "archived": false,
             "id": 638951438,
             "language": "Python",
-            "last_commit": "2026-08-24T17:48:51Z",
+            "last_commit": "2026-08-24T21:20:20Z",
             "owner": "comet-ml",
             "repo": "opik",
-            "stars": 21571
+            "stars": 21588
           }
         },
         {
@@ -216,10 +216,10 @@
             "archived": false,
             "id": 614765452,
             "language": "Python",
-            "last_commit": "2026-08-24T17:39:27Z",
+            "last_commit": "2026-08-25T06:00:03Z",
             "owner": "Significant-Gravitas",
             "repo": "AutoGPT",
-            "stars": 186851
+            "stars": 186852
           }
         },
         {
@@ -291,7 +291,7 @@
             "last_commit": "2026-08-24T07:10:45Z",
             "owner": "promptslab",
             "repo": "Awesome-Prompt-Engineering",
-            "stars": 6283
+            "stars": 6284
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2025-05-16T10:55:24Z",
             "owner": "EwingYangs",
             "repo": "awesome-open-gpt",
-            "stars": 6045
+            "stars": 6044
           }
         },
         {
@@ -321,7 +321,7 @@
             "last_commit": "2026-05-21T09:12:50Z",
             "owner": "tensorchord",
             "repo": "Awesome-LLMOps",
-            "stars": 5919
+            "stars": 5920
           }
         },
         {
@@ -333,10 +333,10 @@
             "archived": false,
             "id": 614906119,
             "language": "Ruby",
-            "last_commit": "2026-08-24T16:32:07Z",
+            "last_commit": "2026-08-25T04:32:56Z",
             "owner": "superiorlu",
             "repo": "AITreasureBox",
-            "stars": 857
+            "stars": 856
           }
         },
         {
@@ -389,7 +389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T17:53:06.759Z",
+    "last_updated": "2026-08-25T06:06:36.184Z",
     "original_repository": "snwfdhmp/awesome-gpt-prompt-engineering",
     "original_repository_id": 647754741,
     "original_repository_sha": "73fd85158fc7bd5cfe4697cedb6014c73d8ba1cf",
