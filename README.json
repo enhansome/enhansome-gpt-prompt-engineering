@@ -10,12 +10,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
+            "homepage": "https://www.promptingguide.ai/",
             "id": 579082810,
             "language": "MDX",
+            "license": "MIT",
             "last_commit": "2026-03-11T20:09:13Z",
+            "open_issues": 278,
             "owner": "dair-ai",
             "repo": "Prompt-Engineering-Guide",
-            "stars": 77877
+            "stars": 77878,
+            "topics": [
+              "agent",
+              "agents",
+              "ai-agents",
+              "chatgpt",
+              "deep-learning",
+              "generative-ai",
+              "language-model",
+              "llms",
+              "openai",
+              "prompt-engineering",
+              "rag"
+            ]
           },
           "first_seen": "2026-08-29T01:01:27.155Z"
         },
@@ -26,12 +43,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
+            "homepage": "https://www.promptingguide.ai/",
             "id": 579082810,
             "language": "MDX",
+            "license": "MIT",
             "last_commit": "2026-03-11T20:09:13Z",
+            "open_issues": 278,
             "owner": "dair-ai",
             "repo": "Prompt-Engineering-Guide",
-            "stars": 77877
+            "stars": 77878,
+            "topics": [
+              "agent",
+              "agents",
+              "ai-agents",
+              "chatgpt",
+              "deep-learning",
+              "generative-ai",
+              "language-model",
+              "llms",
+              "openai",
+              "prompt-engineering",
+              "rag"
+            ]
           },
           "first_seen": "2026-08-29T01:01:27.155Z"
         },
@@ -42,12 +76,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Examples and guides for using the OpenAI API",
+            "homepage": "https://cookbook.openai.com",
             "id": 468576060,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-08-28T17:13:13Z",
+            "open_issues": 294,
             "owner": "openai",
             "repo": "openai-cookbook",
-            "stars": 75592
+            "stars": 75595,
+            "topics": [
+              "chatgpt",
+              "gpt-4",
+              "openai",
+              "openai-api"
+            ]
           },
           "first_seen": "2026-08-29T01:01:27.155Z"
         },
@@ -58,12 +102,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Materials used in talks, webinars, meetups etc",
+            "homepage": null,
             "id": 575733799,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-08-11T05:05:31Z",
+            "open_issues": 0,
             "owner": "SudalaiRajkumar",
             "repo": "Talks_Webinars",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:01:27.155Z"
         }
@@ -80,12 +129,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The agent engineering platform.",
+            "homepage": "https://docs.langchain.com/langchain/",
             "id": 552661142,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T23:20:17Z",
+            "open_issues": 431,
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 145208
+            "stars": 145216,
+            "topics": [
+              "agents",
+              "ai",
+              "ai-agents",
+              "anthropic",
+              "chatgpt",
+              "deepagents",
+              "enterprise",
+              "framework",
+              "gemini",
+              "generative-ai",
+              "langchain",
+              "langgraph",
+              "llm",
+              "multiagent",
+              "open-source",
+              "openai",
+              "pydantic",
+              "python",
+              "rag",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T01:01:27.155Z"
         },
@@ -96,12 +171,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Universal memory layer for AI Agents",
+            "homepage": "https://mem0.ai",
             "id": 656099147,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T18:02:50Z",
+            "open_issues": 703,
             "owner": "mem0ai",
             "repo": "mem0",
-            "stars": 64275
+            "stars": 64281,
+            "topics": [
+              "agents",
+              "ai",
+              "ai-agents",
+              "application",
+              "chatbots",
+              "chatgpt",
+              "genai",
+              "llm",
+              "long-term-memory",
+              "memory",
+              "memory-management",
+              "python",
+              "rag",
+              "state-management"
+            ]
           },
           "first_seen": "2026-08-29T01:01:27.155Z"
         }
@@ -118,12 +213,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+            "homepage": "https://prompts.chat",
             "id": 574523116,
             "language": "HTML",
-            "last_commit": "2026-08-28T05:47:17Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:15:57Z",
+            "open_issues": 69,
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 168123
+            "stars": 168128,
+            "topics": [
+              "ai",
+              "artificial-intelligence",
+              "awesome-list",
+              "chatgpt",
+              "chatgpt-prompts",
+              "claude",
+              "gemini",
+              "gpt",
+              "gpt-4",
+              "llm",
+              "machine-learning",
+              "nextjs",
+              "open-source",
+              "openai",
+              "prompt-engineering",
+              "prompts",
+              "prompts-chat",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T01:01:27.155Z"
         },
@@ -134,12 +253,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+            "homepage": "https://prompts.chat",
             "id": 574523116,
             "language": "HTML",
-            "last_commit": "2026-08-28T05:47:17Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:15:57Z",
+            "open_issues": 69,
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 168123
+            "stars": 168128,
+            "topics": [
+              "ai",
+              "artificial-intelligence",
+              "awesome-list",
+              "chatgpt",
+              "chatgpt-prompts",
+              "claude",
+              "gemini",
+              "gpt",
+              "gpt-4",
+              "llm",
+              "machine-learning",
+              "nextjs",
+              "open-source",
+              "openai",
+              "prompt-engineering",
+              "prompts",
+              "prompts-chat",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T01:01:27.155Z"
         },
@@ -150,12 +293,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A repository of 60 useful data science prompts for ChatGPT",
+            "homepage": null,
             "id": 586758655,
             "language": null,
+            "license": null,
             "last_commit": "2023-12-28T15:18:28Z",
+            "open_issues": 1,
             "owner": "travistangvh",
             "repo": "ChatGPT-Data-Science-Prompts",
-            "stars": 1619
+            "stars": 1619,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:01:27.155Z"
         }
@@ -172,12 +320,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.",
+            "homepage": "https://www.comet.com/docs/opik/",
             "id": 638951438,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T20:16:26Z",
+            "open_issues": 213,
             "owner": "comet-ml",
             "repo": "opik",
-            "stars": 21657
+            "stars": 21659,
+            "topics": [
+              "evaluation",
+              "hacktoberfest",
+              "hacktoberfest2025",
+              "langchain",
+              "llama-index",
+              "llm",
+              "llm-evaluation",
+              "llm-observability",
+              "llmops",
+              "open-source",
+              "openai",
+              "playground",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T01:01:27.155Z"
         },
@@ -188,12 +355,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent from what they find.",
+            "homepage": "https://www.rhesis.ai/",
             "id": 870296864,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T15:16:22Z",
+            "open_issues": 58,
             "owner": "rhesis-ai",
             "repo": "rhesis",
-            "stars": 391
+            "stars": 391,
+            "topics": [
+              "annotations",
+              "feedback-loop",
+              "hypothesis-testing",
+              "llmops",
+              "regression-testing",
+              "systematic-evaluation"
+            ]
           },
           "first_seen": "2026-08-29T01:01:27.155Z"
         },
@@ -204,12 +383,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use any LLM from the command line.",
+            "homepage": null,
             "id": 651283056,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2025-10-21T12:25:53Z",
+            "open_issues": 2,
             "owner": "snwfdhmp",
             "repo": "llm",
-            "stars": 59
+            "stars": 59,
+            "topics": [
+              "bing-chat",
+              "bing-chat-ai",
+              "chatgpt",
+              "cli-app",
+              "gpt-3",
+              "gpt-4",
+              "large-language-model",
+              "large-language-models",
+              "llama",
+              "llm",
+              "llms",
+              "wizardlm"
+            ]
           },
           "first_seen": "2026-08-29T01:01:27.155Z"
         }
@@ -226,12 +423,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+            "homepage": "https://agpt.co",
             "id": 614765452,
             "language": "Python",
-            "last_commit": "2026-08-29T00:55:53Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:02:30Z",
+            "open_issues": 525,
             "owner": "Significant-Gravitas",
             "repo": "AutoGPT",
-            "stars": 186964
+            "stars": 186966,
+            "topics": [
+              "agentic-ai",
+              "agents",
+              "ai",
+              "artificial-intelligence",
+              "autonomous-agents",
+              "claude",
+              "gpt",
+              "llama-api",
+              "llm",
+              "openai",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T01:01:27.155Z"
         },
@@ -242,12 +456,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🤖 Create LLM agents in a second with your prompts. Everything you need to create an LLM Agent - tools, prompts, frameworks, and models - all in one place.",
+            "homepage": null,
             "id": 650549146,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-01T12:30:12Z",
+            "open_issues": 10,
             "owner": "melih-unsal",
             "repo": "DemoGPT",
-            "stars": 1905
+            "stars": 1905,
+            "topics": [
+              "agent",
+              "agents",
+              "ai",
+              "artificial-intelligence",
+              "autogpt",
+              "autonomous-agents",
+              "chatgpt",
+              "chatgpt-api",
+              "deepseek",
+              "demo",
+              "gpt-4",
+              "langchain",
+              "langchain-app",
+              "langchain-python",
+              "llms",
+              "o1",
+              "openai",
+              "python",
+              "streamlit",
+              "streamlit-application"
+            ]
           },
           "first_seen": "2026-08-29T01:01:27.155Z"
         }
@@ -264,12 +504,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple To-do ChatGPT Plugin using python and deployed on replit. ",
+            "homepage": null,
             "id": 618120669,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-03-23T20:10:05Z",
+            "open_issues": 1,
             "owner": "ruvnet",
             "repo": "chatgpt_plugin_python",
-            "stars": 97
+            "stars": 97,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:01:27.155Z"
         },
@@ -280,12 +525,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ChatGPT Web Surfer Plugin",
+            "homepage": null,
             "id": 627245480,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-04-23T17:25:09Z",
+            "open_issues": 4,
             "owner": "ruvnet",
             "repo": "Surfer",
-            "stars": 89
+            "stars": 89,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:01:27.155Z"
         }
@@ -302,12 +552,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc ",
+            "homepage": "https://discord.gg/m88xfYMbK6",
             "id": 599716050,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T18:29:41Z",
+            "open_issues": 110,
             "owner": "promptslab",
             "repo": "Awesome-Prompt-Engineering",
-            "stars": 6297
+            "stars": 6298,
+            "topics": [
+              "chatgpt",
+              "chatgpt-api",
+              "deep-learning",
+              "few-shot-learning",
+              "gpt",
+              "gpt-3",
+              "machine-learning",
+              "openai",
+              "prompt",
+              "prompt-based-learning",
+              "prompt-engineering",
+              "prompt-generator",
+              "prompt-learning",
+              "prompt-toolkit",
+              "prompt-tuning",
+              "promptengineering",
+              "text-to-image",
+              "text-to-speech",
+              "text-to-video"
+            ]
           },
           "first_seen": "2026-08-29T01:01:27.155Z"
         },
@@ -318,12 +593,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥",
+            "homepage": null,
             "id": 622980722,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-05-16T10:55:24Z",
+            "open_issues": 22,
             "owner": "EwingYangs",
             "repo": "awesome-open-gpt",
-            "stars": 6044
+            "stars": 6044,
+            "topics": [
+              "agentgpt",
+              "ai",
+              "aigc",
+              "autogpt",
+              "awesome",
+              "awesome-list",
+              "chatbox",
+              "chatgpt",
+              "chatgpt-api",
+              "chatgpt-sdk",
+              "gpt",
+              "gpt4",
+              "gpt4free",
+              "gpt4o",
+              "gpts",
+              "gptstore",
+              "machinelearning",
+              "minigpt",
+              "moss",
+              "open-source"
+            ]
           },
           "first_seen": "2026-08-29T01:01:27.155Z"
         },
@@ -334,12 +635,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An awesome & curated list of best LLMOps tools for developers",
+            "homepage": null,
             "id": 481805419,
             "language": "Shell",
+            "license": "CC0-1.0",
             "last_commit": "2026-05-21T09:12:50Z",
+            "open_issues": 259,
             "owner": "tensorchord",
             "repo": "Awesome-LLMOps",
-            "stars": 5922
+            "stars": 5922,
+            "topics": [
+              "ai-development-tools",
+              "awesome-list",
+              "llmops",
+              "mlops"
+            ]
           },
           "first_seen": "2026-08-29T01:01:27.155Z"
         },
@@ -350,12 +661,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🤖 Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱 💎",
+            "homepage": null,
             "id": 614906119,
             "language": "Ruby",
-            "last_commit": "2026-08-29T00:49:42Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-29T02:34:08Z",
+            "open_issues": 12,
             "owner": "superiorlu",
             "repo": "AITreasureBox",
-            "stars": 858
+            "stars": 858,
+            "topics": [
+              "agentic",
+              "agi",
+              "ai",
+              "ai-gents",
+              "ai-prompts",
+              "ai-tools",
+              "alpaca",
+              "awesome-list",
+              "deep-learning",
+              "deepseek",
+              "gpt",
+              "harness",
+              "llama",
+              "llm",
+              "machine-learning",
+              "mcp",
+              "openai"
+            ]
           },
           "first_seen": "2026-08-29T01:01:27.155Z"
         },
@@ -366,12 +700,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome series for Large Language Model(LLM)s",
+            "homepage": "https://github.com/KennethanCeyer/awesome-llm",
             "id": 595918058,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2025-03-17T12:11:49Z",
+            "open_issues": 6,
             "owner": "KennethanCeyer",
             "repo": "awesome-llm",
-            "stars": 88
+            "stars": 88,
+            "topics": [
+              "ai",
+              "awesome",
+              "awesome-list",
+              "bard",
+              "bert",
+              "chatgpt",
+              "gpt",
+              "gpt3",
+              "hyperparameters",
+              "large-language-models",
+              "llm",
+              "machine-learning",
+              "ml",
+              "natural-language-processing",
+              "nlp",
+              "openai",
+              "t5"
+            ]
           },
           "first_seen": "2026-08-29T01:01:27.155Z"
         },
@@ -382,12 +739,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use any LLM from the command line.",
+            "homepage": null,
             "id": 651283056,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2025-10-21T12:25:53Z",
+            "open_issues": 2,
             "owner": "snwfdhmp",
             "repo": "llm",
-            "stars": 59
+            "stars": 59,
+            "topics": [
+              "bing-chat",
+              "bing-chat-ai",
+              "chatgpt",
+              "cli-app",
+              "gpt-3",
+              "gpt-4",
+              "large-language-model",
+              "large-language-models",
+              "llama",
+              "llm",
+              "llms",
+              "wizardlm"
+            ]
           },
           "first_seen": "2026-08-29T01:01:27.155Z"
         },
@@ -398,12 +773,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome series for LLMOps",
+            "homepage": null,
             "id": 622125112,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2025-03-17T12:06:34Z",
+            "open_issues": 18,
             "owner": "KennethanCeyer",
             "repo": "awesome-llmops",
-            "stars": 56
+            "stars": 56,
+            "topics": [
+              "bard",
+              "deep-learning",
+              "feature-engineering",
+              "gpt",
+              "large-language-models",
+              "llm",
+              "llmops",
+              "machine-learning",
+              "mlops",
+              "nlp"
+            ]
           },
           "first_seen": "2026-08-29T01:01:27.155Z"
         }
@@ -412,15 +803,40 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:01:27.155Z",
+    "last_updated": "2026-08-29T04:32:54.418Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome resources, tools, and other shiny things for LLM prompt engineering.",
+      "homepage": null,
       "id": 647754741,
       "language": "Python",
+      "license": "NOASSERTION",
       "last_commit": "2026-02-23T12:11:18Z",
+      "open_issues": 16,
       "owner": "snwfdhmp",
       "repo": "awesome-gpt-prompt-engineering",
-      "stars": 1616
+      "stars": 1616,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "awesome-readme",
+        "awesome-resources",
+        "chatgpt",
+        "gpt",
+        "gpt-3",
+        "gpt-35-turbo",
+        "gpt-4",
+        "large-language-models",
+        "llm",
+        "openai",
+        "prompt",
+        "prompt-engineering",
+        "prompt-generator",
+        "prompt-learning",
+        "prompts",
+        "resources"
+      ]
     },
     "original_repository_sha": "73fd85158fc7bd5cfe4697cedb6014c73d8ba1cf",
     "enhanced_repository": "enhansome/enhansome-gpt-prompt-engineering",
