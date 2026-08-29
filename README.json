@@ -15,8 +15,9 @@
             "last_commit": "2026-03-11T20:09:13Z",
             "owner": "dair-ai",
             "repo": "Prompt-Engineering-Guide",
-            "stars": 77842
-          }
+            "stars": 77877
+          },
+          "first_seen": "2026-08-29T01:01:27.155Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-03-11T20:09:13Z",
             "owner": "dair-ai",
             "repo": "Prompt-Engineering-Guide",
-            "stars": 77842
-          }
+            "stars": 77877
+          },
+          "first_seen": "2026-08-29T01:01:27.155Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 468576060,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-27T20:56:12Z",
+            "last_commit": "2026-08-28T17:13:13Z",
             "owner": "openai",
             "repo": "openai-cookbook",
-            "stars": 75583
-          }
+            "stars": 75592
+          },
+          "first_seen": "2026-08-29T01:01:27.155Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "SudalaiRajkumar",
             "repo": "Talks_Webinars",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-29T01:01:27.155Z"
         }
       ],
       "title": "Guides"
@@ -78,11 +82,12 @@
             "archived": false,
             "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-27T23:00:43Z",
+            "last_commit": "2026-08-28T23:20:17Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 145151
-          }
+            "stars": 145208
+          },
+          "first_seen": "2026-08-29T01:01:27.155Z"
         },
         {
           "node_type": "item",
@@ -93,11 +98,12 @@
             "archived": false,
             "id": 656099147,
             "language": "Python",
-            "last_commit": "2026-08-27T16:42:05Z",
+            "last_commit": "2026-08-28T18:02:50Z",
             "owner": "mem0ai",
             "repo": "mem0",
-            "stars": 64207
-          }
+            "stars": 64275
+          },
+          "first_seen": "2026-08-29T01:01:27.155Z"
         }
       ],
       "title": "Techniques"
@@ -114,11 +120,12 @@
             "archived": false,
             "id": 574523116,
             "language": "HTML",
-            "last_commit": "2026-08-27T10:04:29Z",
+            "last_commit": "2026-08-28T05:47:17Z",
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 168087
-          }
+            "stars": 168123
+          },
+          "first_seen": "2026-08-29T01:01:27.155Z"
         },
         {
           "node_type": "item",
@@ -129,11 +136,12 @@
             "archived": false,
             "id": 574523116,
             "language": "HTML",
-            "last_commit": "2026-08-27T10:04:29Z",
+            "last_commit": "2026-08-28T05:47:17Z",
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 168087
-          }
+            "stars": 168123
+          },
+          "first_seen": "2026-08-29T01:01:27.155Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "travistangvh",
             "repo": "ChatGPT-Data-Science-Prompts",
             "stars": 1619
-          }
+          },
+          "first_seen": "2026-08-29T01:01:27.155Z"
         }
       ],
       "title": "Prompt Collections"
@@ -165,11 +174,12 @@
             "archived": false,
             "id": 638951438,
             "language": "Python",
-            "last_commit": "2026-08-27T20:58:30Z",
+            "last_commit": "2026-08-28T20:16:26Z",
             "owner": "comet-ml",
             "repo": "opik",
-            "stars": 21642
-          }
+            "stars": 21657
+          },
+          "first_seen": "2026-08-29T01:01:27.155Z"
         },
         {
           "node_type": "item",
@@ -180,11 +190,12 @@
             "archived": false,
             "id": 870296864,
             "language": "Python",
-            "last_commit": "2026-08-27T14:04:06Z",
+            "last_commit": "2026-08-28T15:16:22Z",
             "owner": "rhesis-ai",
             "repo": "rhesis",
-            "stars": 390
-          }
+            "stars": 391
+          },
+          "first_seen": "2026-08-29T01:01:27.155Z"
         },
         {
           "node_type": "item",
@@ -199,7 +210,8 @@
             "owner": "snwfdhmp",
             "repo": "llm",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-29T01:01:27.155Z"
         }
       ],
       "title": "Playgrounds and Alternative UIs"
@@ -216,11 +228,12 @@
             "archived": false,
             "id": 614765452,
             "language": "Python",
-            "last_commit": "2026-08-28T01:29:16Z",
+            "last_commit": "2026-08-29T00:55:53Z",
             "owner": "Significant-Gravitas",
             "repo": "AutoGPT",
-            "stars": 186939
-          }
+            "stars": 186964
+          },
+          "first_seen": "2026-08-29T01:01:27.155Z"
         },
         {
           "node_type": "item",
@@ -235,7 +248,8 @@
             "owner": "melih-unsal",
             "repo": "DemoGPT",
             "stars": 1905
-          }
+          },
+          "first_seen": "2026-08-29T01:01:27.155Z"
         }
       ],
       "title": "Auto-GPT Related"
@@ -256,7 +270,8 @@
             "owner": "ruvnet",
             "repo": "chatgpt_plugin_python",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-29T01:01:27.155Z"
         },
         {
           "node_type": "item",
@@ -271,7 +286,8 @@
             "owner": "ruvnet",
             "repo": "Surfer",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-29T01:01:27.155Z"
         }
       ],
       "title": "ChatGPT Plug-ins"
@@ -288,11 +304,12 @@
             "archived": false,
             "id": 599716050,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T17:32:55Z",
+            "last_commit": "2026-08-28T18:29:41Z",
             "owner": "promptslab",
             "repo": "Awesome-Prompt-Engineering",
-            "stars": 6295
-          }
+            "stars": 6297
+          },
+          "first_seen": "2026-08-29T01:01:27.155Z"
         },
         {
           "node_type": "item",
@@ -306,8 +323,9 @@
             "last_commit": "2025-05-16T10:55:24Z",
             "owner": "EwingYangs",
             "repo": "awesome-open-gpt",
-            "stars": 6045
-          }
+            "stars": 6044
+          },
+          "first_seen": "2026-08-29T01:01:27.155Z"
         },
         {
           "node_type": "item",
@@ -322,7 +340,8 @@
             "owner": "tensorchord",
             "repo": "Awesome-LLMOps",
             "stars": 5922
-          }
+          },
+          "first_seen": "2026-08-29T01:01:27.155Z"
         },
         {
           "node_type": "item",
@@ -333,11 +352,12 @@
             "archived": false,
             "id": 614906119,
             "language": "Ruby",
-            "last_commit": "2026-08-27T23:22:51Z",
+            "last_commit": "2026-08-29T00:49:42Z",
             "owner": "superiorlu",
             "repo": "AITreasureBox",
-            "stars": 857
-          }
+            "stars": 858
+          },
+          "first_seen": "2026-08-29T01:01:27.155Z"
         },
         {
           "node_type": "item",
@@ -352,7 +372,8 @@
             "owner": "KennethanCeyer",
             "repo": "awesome-llm",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-29T01:01:27.155Z"
         },
         {
           "node_type": "item",
@@ -367,7 +388,8 @@
             "owner": "snwfdhmp",
             "repo": "llm",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-29T01:01:27.155Z"
         },
         {
           "node_type": "item",
@@ -382,14 +404,15 @@
             "owner": "KennethanCeyer",
             "repo": "awesome-llmops",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-29T01:01:27.155Z"
         }
       ],
       "title": "AI Links Directories"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:32:25.855Z",
+    "last_updated": "2026-08-29T01:01:27.155Z",
     "original_repository_info": {
       "archived": false,
       "id": 647754741,
